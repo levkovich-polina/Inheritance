@@ -1,0 +1,8 @@
+D:\C#\ДЗ5(наследование)\Inheritance_Task2\Inheritance_Task3\Inheritance_Task3\bin\Debug\Inheritance_Task3.exe.config
+D:\C#\ДЗ5(наследование)\Inheritance_Task2\Inheritance_Task3\Inheritance_Task3\bin\Debug\Inheritance_Task3.exe
+D:\C#\ДЗ5(наследование)\Inheritance_Task2\Inheritance_Task3\Inheritance_Task3\bin\Debug\Inheritance_Task3.pdb
+D:\C#\ДЗ5(наследование)\Inheritance_Task2\Inheritance_Task3\Inheritance_Task3\obj\Debug\Inheritance_Task3.csproj.AssemblyReference.cache
+D:\C#\ДЗ5(наследование)\Inheritance_Task2\Inheritance_Task3\Inheritance_Task3\obj\Debug\Inheritance_Task3.csproj.SuggestedBindingRedirects.cache
+D:\C#\ДЗ5(наследование)\Inheritance_Task2\Inheritance_Task3\Inheritance_Task3\obj\Debug\Inheritance_Task3.csproj.CoreCompileInputs.cache
+D:\C#\ДЗ5(наследование)\Inheritance_Task2\Inheritance_Task3\Inheritance_Task3\obj\Debug\Inheritance_Task3.exe
+D:\C#\ДЗ5(наследование)\Inheritance_Task2\Inheritance_Task3\Inheritance_Task3\obj\Debug\Inheritance_Task3.pdb
